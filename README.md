@@ -21,6 +21,8 @@ I'm Wilson Ohioleayo, a highly committed Frontend Software Developer with over 4
 - REACT
 - NEXT
 - TAILWINDCSS
+- MATERIAL UI
+- STYLED COMPONENT
 - SASS
 - NODE.JS
 - EXPRESSJS
@@ -29,4 +31,6 @@ I'm Wilson Ohioleayo, a highly committed Frontend Software Developer with over 4
 - FIGMA
 - AWS
 
-## Tech Stack:
+## Live Projects:
+https://nijiral.vercel.app
+https://docify-collb.vercel.app
