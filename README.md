@@ -34,3 +34,5 @@ I'm Wilson Ohioleayo, a highly committed Frontend Software Developer with over 4
 ## Live Projects:
 - https://nijiral.vercel.app
 - https://docify-collb.vercel.app
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsondev94&layout=compact&theme=radical)
