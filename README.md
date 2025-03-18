@@ -1,6 +1,6 @@
 # About Me:
 
-I'm Wilson Ohioleayo, a highly committed Frontend Software Developer with over 4 years of experience building dynamic user-centered solutions for globally distributed teams. I currently work at Pericius, India as a React Software Developer. In my leisure, I enjoy Watching football, playing musical instrument(Piano or Guitar), Reading and introspecting.
+I'm Wilson Ohioleayo, a highly committed Software Developer with over 4 years of experience building dynamic user-centered solutions for globally distributed teams. I currently work at Pericius, India as a React Software Developer. In my leisure, I enjoy Watching football, playing musical instrument(Piano or Guitar), Reading and introspecting.
 
 ---
 
