@@ -32,5 +32,5 @@ I'm Wilson Ohioleayo, a highly committed Frontend Software Developer with over 4
 - AWS
 
 ## Live Projects:
-https://nijiral.vercel.app
-https://docify-collb.vercel.app
+- https://nijiral.vercel.app
+- https://docify-collb.vercel.app
