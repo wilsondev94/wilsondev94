@@ -18,19 +18,15 @@ I'm Wilson Ohioleayo, a highly committed Frontend Software Developer with over 4
 - HTML5
 - JAVASCRIPT
 - TYPESCRIPT
-- AWS
+- REACT
 - NEXT
+- TAILWINDCSS
+- SASS
 - NODE.JS
 - EXPRESSJS
-- REACT
-- SASS
+- PROGRESQL
+- MONGODB
 - FIGMA
-- JIRA
+- AWS
 
----
-
-## GitHub Stats:
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wilsondev94&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsondev94&layout=compact&theme=radical)
+## Tech Stack:
