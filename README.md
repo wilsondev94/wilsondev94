@@ -34,6 +34,7 @@ I'm Wilson Ohioleayo, a highly committed Software Developer with over 4 years of
 ---
 
 ## Live Projects:
+- https://smartcraftresume.vercel.app
 - https://nijiral.vercel.app
 - https://docify-collb.vercel.app
 
