@@ -5,7 +5,7 @@ I'm Wilson Ohioleayo, I build highly optimized, responsive and scalable web appl
 ---
 
 ## Socials:
-<a href="https://instagram.com/wils_ohio" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/wilson-ohioleayo-13282b233" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/wils_ohio" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/wilson-ohioleayo-13282b233" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://x.com/wils_ohio" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
 
 
 ---
