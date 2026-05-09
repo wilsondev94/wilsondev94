@@ -1,6 +1,6 @@
 # About Me:
 
-I'm Wilson Ohioleayo, I build highly optimized, responsive and scalable web applications.
+I'm Wilson Ohioleayo, I build highly optimized, responsive and scalable web applications. You can reach me on wilsonohioleayo@gmail.com
 
 ---
 
